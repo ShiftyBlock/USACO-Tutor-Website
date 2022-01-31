@@ -1,0 +1,1342 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head><style>img.lazy{min-height:1px}</style><link rel="preload" href="https://usacotutor.com/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js" as="script">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+
+
+	<!-- This site is optimized with the Yoast SEO plugin v15.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Tuition - USACO Tutor</title>
+	<meta name="description" content="USACO Tutor" />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://usacotutor.com/tuition" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Tuition - USACO Tutor" />
+	<meta property="og:description" content="USACO Tutor" />
+	<meta property="og:url" content="https://usacotutor.com/tuition" />
+	<meta property="og:site_name" content="USACO Tutor" />
+	<meta property="article:publisher" content="https://www.facebook.com/usacotutor" />
+	<meta property="article:modified_time" content="2020-11-03T17:44:40+00:00" />
+	<meta property="og:image" content="https://i2.wp.com/usacotutor.com/wp-content/uploads/2020/11/logo-2.png?fit=355%2C209&#038;ssl=1" />
+	<meta property="og:image:width" content="355" />
+	<meta property="og:image:height" content="209" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Written by">
+	<meta name="twitter:data1" content="USACO Tutor">
+	<meta name="twitter:label2" content="Est. reading time">
+	<meta name="twitter:data2" content="18 minutes">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://usacotutor.com/#organization","name":"USACO Tutor","url":"https://usacotutor.com/","sameAs":["https://www.facebook.com/usacotutor"],"logo":{"@type":"ImageObject","@id":"https://usacotutor.com/#logo","inLanguage":"en-US","url":"https://i2.wp.com/usacotutor.com/wp-content/uploads/2020/11/Copy-of-Copy-of-Copy-of-Untitled-1.png?fit=2130%2C300&ssl=1","width":2130,"height":300,"caption":"USACO Tutor"},"image":{"@id":"https://usacotutor.com/#logo"}},{"@type":"WebSite","@id":"https://usacotutor.com/#website","url":"https://usacotutor.com/","name":"USACO Tutor","description":"Website","publisher":{"@id":"https://usacotutor.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://usacotutor.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://usacotutor.com/tuition#webpage","url":"https://usacotutor.com/tuition","name":"Tuition - USACO Tutor","isPartOf":{"@id":"https://usacotutor.com/#website"},"datePublished":"2020-01-28T17:22:58+00:00","dateModified":"2020-11-03T17:44:40+00:00","description":"USACO Tutor","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://usacotutor.com/tuition"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//i1.wp.com' />
+<link rel='dns-prefetch' href='//i2.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="USACO Tutor &raquo; Feed" href="https://usacotutor.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="USACO Tutor &raquo; Comments Feed" href="https://usacotutor.com/comments/feed" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.13.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+    (window.gaDevIds=window.gaDevIds||[]).push("dZGIzZG");
+	var mi_version         = '7.13.0';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-181854234-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	if ( 'undefined' === typeof gaOptout ) {
+		function gaOptout() {
+			__gaTrackerOptout();
+		}
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-181854234-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('require', 'linkid', 'linkid.js');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<link rel='stylesheet' id='astra-theme-css-css'  href='https://usacotutor.com/wp-content/themes/astra/assets/css/minified/style.min.css?ver=2.6.0' media='all' />
+<style id='astra-theme-css-inline-css'>
+html{font-size:100%;}a,.page-title{color:#431942;}a:hover,a:focus{color:#fd8d3b;}body,button,input,select,textarea,.ast-button,.ast-custom-button{font-family:'Open Sans',sans-serif;font-weight:600;font-size:16px;font-size:1rem;}blockquote{color:#292029;}p,.entry-content p{margin-bottom:0.5em;}h1,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6,.site-title,.site-title a{font-family:'Poppins',sans-serif;font-weight:800;text-transform:uppercase;}.site-title{font-size:35px;font-size:2.1875rem;}header .site-logo-img .custom-logo-link img{max-width:72px;}.astra-logo-svg{width:72px;}.ast-archive-description .ast-archive-title{font-size:40px;font-size:2.5rem;}.site-header .site-description{font-size:15px;font-size:0.9375rem;}.entry-title{font-size:40px;font-size:2.5rem;}.comment-reply-title{font-size:26px;font-size:1.625rem;}.ast-comment-list #cancel-comment-reply-link{font-size:16px;font-size:1rem;}h1,.entry-content h1{font-size:85px;font-size:5.3125rem;font-family:'Poppins',sans-serif;line-height:1.15;text-transform:uppercase;}h2,.entry-content h2{font-size:50px;font-size:3.125rem;font-family:'Poppins',sans-serif;text-transform:uppercase;}h3,.entry-content h3{font-size:36px;font-size:2.25rem;font-family:'Poppins',sans-serif;text-transform:uppercase;}h4,.entry-content h4{font-size:27px;font-size:1.6875rem;}h5,.entry-content h5{font-size:22px;font-size:1.375rem;}h6,.entry-content h6{font-size:15px;font-size:0.9375rem;}.ast-single-post .entry-title,.page-title{font-size:30px;font-size:1.875rem;}#secondary,#secondary button,#secondary input,#secondary select,#secondary textarea{font-size:16px;font-size:1rem;}::selection{background-color:#fd8d3b;color:#000000;}body,h1,.entry-title a,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6,.wc-block-grid__product-title{color:#746b74;}.tagcloud a:hover,.tagcloud a:focus,.tagcloud a.current-item{color:#ffffff;border-color:#431942;background-color:#431942;}.main-header-menu .menu-link,.ast-header-custom-item a{color:#746b74;}.main-header-menu .menu-item:hover > .menu-link,.main-header-menu .menu-item:hover > .ast-menu-toggle,.main-header-menu .ast-masthead-custom-menu-items a:hover,.main-header-menu .menu-item.focus > .menu-link,.main-header-menu .menu-item.focus > .ast-menu-toggle,.main-header-menu .current-menu-item > .menu-link,.main-header-menu .current-menu-ancestor > .menu-link,.main-header-menu .current-menu-item > .ast-menu-toggle,.main-header-menu .current-menu-ancestor > .ast-menu-toggle{color:#431942;}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,textarea:focus{border-color:#431942;}input[type="radio"]:checked,input[type=reset],input[type="checkbox"]:checked,input[type="checkbox"]:hover:checked,input[type="checkbox"]:focus:checked,input[type=range]::-webkit-slider-thumb{border-color:#431942;background-color:#431942;box-shadow:none;}.site-footer a:hover + .post-count,.site-footer a:focus + .post-count{background:#431942;border-color:#431942;}.footer-adv .footer-adv-overlay{border-top-style:solid;border-top-color:#7a7a7a;}.ast-comment-meta{line-height:1.666666667;font-size:13px;font-size:0.8125rem;}.single .nav-links .nav-previous,.single .nav-links .nav-next,.single .ast-author-details .author-title,.ast-comment-meta{color:#431942;}.entry-meta,.entry-meta *{line-height:1.45;color:#431942;}.entry-meta a:hover,.entry-meta a:hover *,.entry-meta a:focus,.entry-meta a:focus *{color:#fd8d3b;}.ast-404-layout-1 .ast-404-text{font-size:200px;font-size:12.5rem;}.widget-title{font-size:22px;font-size:1.375rem;color:#746b74;}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead a:visited{color:#431942;}.secondary .calendar_wrap #today,.ast-progress-val span{background:#431942;}.secondary a:hover + .post-count,.secondary a:focus + .post-count{background:#431942;border-color:#431942;}.calendar_wrap #today > a{color:#ffffff;}.ast-pagination a,.page-links .page-link,.single .post-navigation a{color:#431942;}.ast-pagination a:hover,.ast-pagination a:focus,.ast-pagination > span:hover:not(.dots),.ast-pagination > span.current,.page-links > .page-link,.page-links .page-link:hover,.post-navigation a:hover{color:#fd8d3b;}.ast-header-break-point .ast-mobile-menu-buttons-minimal.menu-toggle{background:transparent;color:#ffffff;}.ast-header-break-point .ast-mobile-menu-buttons-outline.menu-toggle{background:transparent;border:1px solid #ffffff;color:#ffffff;}.ast-header-break-point .ast-mobile-menu-buttons-fill.menu-toggle{background:#ffffff;color:#000000;}.ast-header-break-point .main-header-bar .ast-button-wrap .menu-toggle{border-radius:5px;}@media (max-width:782px){.entry-content .wp-block-columns .wp-block-column{margin-left:0px;}}@media (max-width:921px){#secondary.secondary{padding-top:0;}.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding:1.5em 2.14em;}.ast-separate-container #primary,.ast-separate-container #secondary{padding:1.5em 0;}.ast-separate-container.ast-right-sidebar #secondary{padding-left:1em;padding-right:1em;}.ast-separate-container.ast-two-container #secondary{padding-left:0;padding-right:0;}.ast-page-builder-template .entry-header #secondary{margin-top:1.5em;}.ast-page-builder-template #secondary{margin-top:1.5em;}#primary,#secondary{padding:1.5em 0;margin:0;}.ast-left-sidebar #content > .ast-container{display:flex;flex-direction:column-reverse;width:100%;}.ast-author-box img.avatar{margin:20px 0 0 0;}.ast-pagination{padding-top:1.5em;text-align:center;}.ast-pagination .next.page-numbers{display:inherit;float:none;}}@media (max-width:921px){.ast-page-builder-template.ast-left-sidebar #secondary{padding-right:20px;}.ast-page-builder-template.ast-right-sidebar #secondary{padding-left:20px;}.ast-right-sidebar #primary{padding-right:0;}.ast-right-sidebar #secondary{padding-left:0;}.ast-left-sidebar #primary{padding-left:0;}.ast-left-sidebar #secondary{padding-right:0;}.ast-pagination .prev.page-numbers{padding-left:.5em;}.ast-pagination .next.page-numbers{padding-right:.5em;}}@media (min-width:922px){.ast-separate-container.ast-right-sidebar #primary,.ast-separate-container.ast-left-sidebar #primary{border:0;}.ast-separate-container.ast-right-sidebar #secondary,.ast-separate-container.ast-left-sidebar #secondary{border:0;margin-left:auto;margin-right:auto;}.ast-separate-container.ast-two-container #secondary .widget:last-child{margin-bottom:0;}.ast-separate-container .ast-comment-list li .comment-respond{padding-left:2.66666em;padding-right:2.66666em;}.ast-author-box{-js-display:flex;display:flex;}.ast-author-bio{flex:1;}.error404.ast-separate-container #primary,.search-no-results.ast-separate-container #primary{margin-bottom:4em;}}@media (min-width:922px){.ast-right-sidebar #primary{border-right:1px solid #eee;}.ast-right-sidebar #secondary{border-left:1px solid #eee;margin-left:-1px;}.ast-left-sidebar #primary{border-left:1px solid #eee;}.ast-left-sidebar #secondary{border-right:1px solid #eee;margin-right:-1px;}.ast-separate-container.ast-two-container.ast-right-sidebar #secondary{padding-left:30px;padding-right:0;}.ast-separate-container.ast-two-container.ast-left-sidebar #secondary{padding-right:30px;padding-left:0;}}.elementor-button-wrapper .elementor-button{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;}body .elementor-button.elementor-size-sm,body .elementor-button.elementor-size-xs,body .elementor-button.elementor-size-md,body .elementor-button.elementor-size-lg,body .elementor-button.elementor-size-xl,body .elementor-button{border-radius:100px;padding-top:15px;padding-right:34px;padding-bottom:15px;padding-left:34px;}.elementor-button-wrapper .elementor-button{border-color:#fd8d3b;background-color:#fd8d3b;}.elementor-button-wrapper .elementor-button:hover,.elementor-button-wrapper .elementor-button:focus{color:#ffffff;background-color:#fd8d3b;border-color:#fd8d3b;}.wp-block-button .wp-block-button__link,.elementor-button-wrapper .elementor-button,.elementor-button-wrapper .elementor-button:visited{color:rgba(255,255,255,0.87);}.elementor-button-wrapper .elementor-button{font-family:inherit;font-weight:inherit;line-height:1;text-transform:uppercase;}body .elementor-button.elementor-size-sm,body .elementor-button.elementor-size-xs,body .elementor-button.elementor-size-md,body .elementor-button.elementor-size-lg,body .elementor-button.elementor-size-xl,body .elementor-button{font-size:15px;font-size:0.9375rem;}.wp-block-button .wp-block-button__link{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;border-color:#fd8d3b;background-color:#fd8d3b;color:rgba(255,255,255,0.87);font-family:inherit;font-weight:inherit;line-height:1;text-transform:uppercase;font-size:15px;font-size:0.9375rem;border-radius:100px;padding-top:15px;padding-right:34px;padding-bottom:15px;padding-left:34px;}.wp-block-button .wp-block-button__link:hover,.wp-block-button .wp-block-button__link:focus{color:#ffffff;background-color:#fd8d3b;border-color:#fd8d3b;}.elementor-widget-heading h1.elementor-heading-title{line-height:1.15;}.menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"]{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;color:rgba(255,255,255,0.87);border-color:#fd8d3b;background-color:#fd8d3b;border-radius:100px;padding-top:15px;padding-right:34px;padding-bottom:15px;padding-left:34px;font-family:inherit;font-weight:inherit;font-size:15px;font-size:0.9375rem;line-height:1;text-transform:uppercase;}button:focus,.menu-toggle:hover,button:hover,.ast-button:hover,.button:hover,input[type=reset]:hover,input[type=reset]:focus,input#submit:hover,input#submit:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus{color:#ffffff;background-color:#fd8d3b;border-color:#fd8d3b;}@media (min-width:921px){.ast-container{max-width:100%;}}@media (min-width:544px){.ast-container{max-width:100%;}}@media (max-width:544px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding:1.5em 1em;}.ast-separate-container #content .ast-container{padding-left:0.54em;padding-right:0.54em;}.ast-separate-container #secondary{padding-top:0;}.ast-separate-container.ast-two-container #secondary .widget{margin-bottom:1.5em;padding-left:1em;padding-right:1em;}.ast-separate-container .comments-count-wrapper{padding:1.5em 1em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 1em;margin-bottom:1.5em;}.ast-separate-container .ast-comment-list .bypostauthor{padding:.5em;}.ast-separate-container .ast-archive-description{padding:1.5em 1em;}.ast-search-menu-icon.ast-dropdown-active .search-field{width:170px;}.ast-separate-container .comment-respond{padding:1.5em 1em;}}@media (max-width:544px){.ast-comment-list .children{margin-left:0.66666em;}.ast-separate-container .ast-comment-list .bypostauthor li{padding:0 0 0 .5em;}}@media (max-width:921px){.ast-mobile-header-stack .main-header-bar .ast-search-menu-icon{display:inline-block;}.ast-header-break-point.ast-header-custom-item-outside .ast-mobile-header-stack .main-header-bar .ast-search-icon{margin:0;}.ast-comment-avatar-wrap img{max-width:2.5em;}.comments-area{margin-top:1.5em;}.ast-separate-container .comments-count-wrapper{padding:2em 2.14em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 2.14em;}.ast-separate-container .comment-respond{padding:2em 2.14em;}}@media (max-width:921px){.ast-header-break-point .main-header-bar .ast-search-menu-icon.slide-search .search-form{right:0;}.ast-header-break-point .ast-mobile-header-stack .main-header-bar .ast-search-menu-icon.slide-search .search-form{right:-1em;}.ast-comment-avatar-wrap{margin-right:0.5em;}}@media (min-width:545px){.ast-page-builder-template .comments-area,.single.ast-page-builder-template .entry-header,.single.ast-page-builder-template .post-navigation{max-width:1180px;margin-left:auto;margin-right:auto;}}@media (max-width:921px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:65px;}h2,.entry-content h2{font-size:40px;}h3,.entry-content h3{font-size:30px;}h4,.entry-content h4{font-size:25px;font-size:1.5625rem;}h5,.entry-content h5{font-size:20px;font-size:1.25rem;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:544px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:35px;}h2,.entry-content h2{font-size:34px;}h3,.entry-content h3{font-size:30px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:921px){html{font-size:91.2%;}}@media (max-width:544px){html{font-size:91.2%;}}@media (min-width:922px){.ast-container{max-width:1180px;}}@font-face {font-family: "Astra";src: url(https://usacotutor.com/wp-content/themes/astra/assets/fonts/astra.woff) format("woff"),url(https://usacotutor.com/wp-content/themes/astra/assets/fonts/astra.ttf) format("truetype"),url(https://usacotutor.com/wp-content/themes/astra/assets/fonts/astra.svg#astra) format("svg");font-weight: normal;font-style: normal;font-display: fallback;}@media (max-width:921px) {.main-header-bar .main-header-bar-navigation{display:none;}}.ast-desktop .main-header-menu.submenu-with-border .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .astra-full-megamenu-wrapper{border-color:#fd8d3b;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu{border-top-width:2px;border-right-width:0px;border-left-width:0px;border-bottom-width:0px;border-style:solid;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu .sub-menu{top:-2px;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu .menu-link,.ast-desktop .main-header-menu.submenu-with-border .children .menu-link{border-bottom-width:0px;border-style:solid;border-color:#eaeaea;}@media (min-width:922px){.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu:hover > .sub-menu,.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu.focus > .sub-menu{margin-left:-0px;}}.ast-small-footer{border-top-style:solid;border-top-width:1px;border-top-color:#7a7a7a;}.ast-small-footer-wrap{text-align:center;}@media (max-width:920px){.ast-404-layout-1 .ast-404-text{font-size:100px;font-size:6.25rem;}}#masthead .ast-container,.ast-header-breadcrumb .ast-container{max-width:100%;padding-left:35px;padding-right:35px;}@media (max-width:921px){#masthead .ast-container,.ast-header-breadcrumb .ast-container{padding-left:20px;padding-right:20px;}}#masthead .ast-container,.ast-header-breadcrumb .ast-container{max-width:100%;padding-left:35px;padding-right:35px;}@media (max-width:921px){#masthead .ast-container,.ast-header-breadcrumb .ast-container{padding-left:20px;padding-right:20px;}}@media (min-width:922px){.ast-theme-transparent-header #masthead{position:absolute;left:0;right:0;}.ast-theme-transparent-header .main-header-bar,.ast-theme-transparent-header.ast-header-break-point .main-header-bar{background:none;}body.elementor-editor-active.ast-theme-transparent-header #masthead,.fl-builder-edit .ast-theme-transparent-header #masthead,body.vc_editor.ast-theme-transparent-header #masthead,body.brz-ed.ast-theme-transparent-header #masthead{z-index:0;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .custom-mobile-logo-link{display:none;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .transparent-custom-logo{display:inline-block;}.ast-theme-transparent-header .ast-above-header{background-image:none;background-color:transparent;}.ast-theme-transparent-header .ast-below-header{background-image:none;background-color:transparent;}}.ast-theme-transparent-header .main-header-menu,.ast-theme-transparent-header .main-header-menu .menu-link,.ast-theme-transparent-header .ast-masthead-custom-menu-items,.ast-theme-transparent-header .ast-masthead-custom-menu-items a,.ast-theme-transparent-header .main-header-menu .menu-item > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu .menu-item > .ast-menu-toggle{color:#ffffff;}.ast-theme-transparent-header .main-header-menu .menu-item:hover > .menu-link,.ast-theme-transparent-header .main-header-menu .menu-item:hover > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu .ast-masthead-custom-menu-items a:hover,.ast-theme-transparent-header .main-header-menu .focus > .menu-link,.ast-theme-transparent-header .main-header-menu .focus > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu .current-menu-item > .menu-link,.ast-theme-transparent-header .main-header-menu .current-menu-ancestor > .menu-link,.ast-theme-transparent-header .main-header-menu .current-menu-item > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu .current-menu-ancestor > .ast-menu-toggle{color:#fd8d3b;}@media (max-width:921px){.ast-theme-transparent-header #masthead{position:absolute;left:0;right:0;}.ast-theme-transparent-header .main-header-bar,.ast-theme-transparent-header.ast-header-break-point .main-header-bar{background:none;}body.elementor-editor-active.ast-theme-transparent-header #masthead,.fl-builder-edit .ast-theme-transparent-header #masthead,body.vc_editor.ast-theme-transparent-header #masthead,body.brz-ed.ast-theme-transparent-header #masthead{z-index:0;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .custom-mobile-logo-link{display:none;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .transparent-custom-logo{display:inline-block;}.ast-theme-transparent-header .ast-above-header{background-image:none;background-color:transparent;}.ast-theme-transparent-header .ast-below-header{background-image:none;background-color:transparent;}}@media (max-width:921px){.ast-theme-transparent-header .main-header-menu,.ast-theme-transparent-header .main-header-menu .menu-link,.ast-theme-transparent-header .ast-masthead-custom-menu-items,.ast-theme-transparent-header .ast-masthead-custom-menu-items a,.ast-theme-transparent-header .main-header-menu .menu-item > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu .menu-item > .ast-menu-toggle{color:#746b74;}}.ast-theme-transparent-header .main-header-bar,.ast-theme-transparent-header.ast-header-break-point .main-header-bar{border-bottom-width:0;border-bottom-style:solid;}.ast-breadcrumbs .trail-browse,.ast-breadcrumbs .trail-items,.ast-breadcrumbs .trail-items li{display:inline-block;margin:0;padding:0;border:none;background:inherit;text-indent:0;}.ast-breadcrumbs .trail-browse{font-size:inherit;font-style:inherit;font-weight:inherit;color:inherit;}.ast-breadcrumbs .trail-items{list-style:none;}.trail-items li::after{padding:0 0.3em;content:"\00bb";}.trail-items li:last-of-type::after{display:none;}h1,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6{color:#431942;}.elementor-widget-heading .elementor-heading-title{margin:0;}.ast-header-break-point .main-header-bar{border-bottom-width:0;}@media (min-width:922px){.main-header-bar{border-bottom-width:0;}}.ast-safari-browser-less-than-11 .main-header-menu .menu-item,.ast-safari-browser-less-than-11 .main-header-bar .ast-masthead-custom-menu-items{display:block;}.main-header-menu .menu-item,.main-header-bar .ast-masthead-custom-menu-items{-js-display:flex;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-moz-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-direction:column;flex-direction:column;}.main-header-menu > .menu-item > .menu-link{height:100%;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;-js-display:flex;display:flex;}.ast-primary-menu-disabled .main-header-bar .ast-masthead-custom-menu-items{flex:unset;}.ast-desktop .astra-menu-animation-slide-up>.menu-item>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-up>.menu-item>.sub-menu,.ast-desktop .astra-menu-animation-slide-up>.menu-item>.sub-menu .sub-menu{opacity:0;visibility:hidden;transform:translateY(.5em);transition:visibility .2s ease,transform .2s ease}.ast-desktop .astra-menu-animation-slide-up>.menu-item .menu-item.focus>.sub-menu,.ast-desktop .astra-menu-animation-slide-up>.menu-item .menu-item:hover>.sub-menu,.ast-desktop .astra-menu-animation-slide-up>.menu-item.focus>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-up>.menu-item.focus>.sub-menu,.ast-desktop .astra-menu-animation-slide-up>.menu-item:hover>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-up>.menu-item:hover>.sub-menu{opacity:1;visibility:visible;transform:translateY(0);transition:opacity .2s ease,visibility .2s ease,transform .2s ease}.ast-desktop .astra-menu-animation-slide-up>.full-width-mega.menu-item.focus>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-up>.full-width-mega.menu-item:hover>.astra-full-megamenu-wrapper{-js-display:flex;display:flex}.ast-desktop .astra-menu-animation-slide-down>.menu-item>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-down>.menu-item>.sub-menu,.ast-desktop .astra-menu-animation-slide-down>.menu-item>.sub-menu .sub-menu{opacity:0;visibility:hidden;transform:translateY(-.5em);transition:visibility .2s ease,transform .2s ease}.ast-desktop .astra-menu-animation-slide-down>.menu-item .menu-item.focus>.sub-menu,.ast-desktop .astra-menu-animation-slide-down>.menu-item .menu-item:hover>.sub-menu,.ast-desktop .astra-menu-animation-slide-down>.menu-item.focus>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-down>.menu-item.focus>.sub-menu,.ast-desktop .astra-menu-animation-slide-down>.menu-item:hover>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-down>.menu-item:hover>.sub-menu{opacity:1;visibility:visible;transform:translateY(0);transition:opacity .2s ease,visibility .2s ease,transform .2s ease}.ast-desktop .astra-menu-animation-slide-down>.full-width-mega.menu-item.focus>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-down>.full-width-mega.menu-item:hover>.astra-full-megamenu-wrapper{-js-display:flex;display:flex}.ast-desktop .astra-menu-animation-fade>.menu-item>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-fade>.menu-item>.sub-menu,.ast-desktop .astra-menu-animation-fade>.menu-item>.sub-menu .sub-menu{opacity:0;visibility:hidden;transition:opacity ease-in-out .3s}.ast-desktop .astra-menu-animation-fade>.menu-item .menu-item.focus>.sub-menu,.ast-desktop .astra-menu-animation-fade>.menu-item .menu-item:hover>.sub-menu,.ast-desktop .astra-menu-animation-fade>.menu-item.focus>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-fade>.menu-item.focus>.sub-menu,.ast-desktop .astra-menu-animation-fade>.menu-item:hover>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-fade>.menu-item:hover>.sub-menu{opacity:1;visibility:visible;transition:opacity ease-in-out .3s}.ast-desktop .astra-menu-animation-fade>.full-width-mega.menu-item.focus>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-fade>.full-width-mega.menu-item:hover>.astra-full-megamenu-wrapper{-js-display:flex;display:flex}
+</style>
+<link rel='stylesheet' id='astra-google-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A600%2C%7CPoppins%3A800%2C&#038;display=fallback&#038;ver=2.6.0' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.5.3/wp-includes/css/dist/block-library/style.min.css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='monsterinsights-popular-posts-style-css'  href='https://usacotutor.com/wp-content/plugins/google-analytics-for-wordpress/assets/css/frontend.min.css?ver=7.13.0' media='all' />
+<link rel='stylesheet' id='hfe-style-css'  href='https://usacotutor.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.5.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://usacotutor.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://usacotutor.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.13' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='https://usacotutor.com/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.13' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://usacotutor.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.13' media='all' />
+<link rel='stylesheet' id='elementor-post-218-css'  href='https://usacotutor.com/wp-content/uploads/elementor/css/post-218.css?ver=1604601003' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://usacotutor.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.0.5' media='all' />
+<link rel='stylesheet' id='uael-frontend-css'  href='https://usacotutor.com/wp-content/plugins/ultimate-elementor/assets/min-css/uael-frontend.min.css?ver=1.27.1' media='all' />
+<link rel='stylesheet' id='wpforms-base-css'  href='https://usacotutor.com/wp-content/plugins/wpforms-lite/assets/css/wpforms-base.min.css?ver=1.6.3.1' media='all' />
+<link rel='stylesheet' id='elementor-post-228-css'  href='https://usacotutor.com/wp-content/uploads/elementor/css/post-228.css?ver=1604601173' media='all' />
+<link rel='stylesheet' id='hfe-widgets-style-css'  href='https://usacotutor.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.5.3' media='all' />
+<link rel='stylesheet' id='astra-addon-css-css'  href='https://usacotutor.com/wp-content/uploads/astra-addon/astra-addon-5f9fc06e33be17-72303784.css?ver=2.7.0' media='all' />
+<link rel='stylesheet' id='elementor-post-291-css'  href='https://usacotutor.com/wp-content/uploads/elementor/css/post-291.css?ver=1604601004' media='all' />
+<link rel='stylesheet' id='elementor-post-368-css'  href='https://usacotutor.com/wp-content/uploads/elementor/css/post-368.css?ver=1604601434' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.5.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://usacotutor.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://usacotutor.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-regular-css'  href='https://usacotutor.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.12.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='https://usacotutor.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/9.0.2/css/jetpack.css' media='all' />
+<!--[if IE]>
+<script src='https://usacotutor.com/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=2.6.0' id='astra-flexibility-js'></script>
+<script id='astra-flexibility-js-after'>
+flexibility(document.documentElement);
+</script>
+<![endif]-->
+<script id='monsterinsights-frontend-script-js-extra'>
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/usacotutor.com","hash_tracking":"false"};
+</script>
+<script src='https://usacotutor.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.13.0' id='monsterinsights-frontend-script-js'></script>
+<link rel="https://api.w.org/" href="https://usacotutor.com/wp-json/" /><link rel="alternate" type="application/json" href="https://usacotutor.com/wp-json/wp/v2/pages/228" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://usacotutor.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://usacotutor.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.3" />
+<link rel='shortlink' href='https://usacotutor.com/?p=228' />
+<link rel="alternate" type="application/json+oembed" href="https://usacotutor.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fusacotutor.com%2Ftuition" />
+<link rel="alternate" type="text/xml+oembed" href="https://usacotutor.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fusacotutor.com%2Ftuition&#038;format=xml" />
+<script src="https://js.stripe.com/v3"></script><style type='text/css'>img#wpstats{display:none}</style><meta property="fb:app_id" content="357725441988113" />
+<!-- Facebook Pixel Code -->
+<script type='text/javascript'>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+</script>
+<!-- End Facebook Pixel Code -->
+<script type='text/javascript'>
+  fbq('init', '1431495663715036', {}, {
+    "agent": "wordpress-5.5.3-2.2.0"
+});
+</script><script type='text/javascript'>
+  fbq('track', 'PageView', []);
+</script>
+<!-- Facebook Pixel Code -->
+<noscript>
+<img class="lazy" height="1" width="1" style="display:none" alt="fbpx"
+src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://www.facebook.com/tr?id=1431495663715036&ev=PageView&noscript=1" />
+</noscript>
+<!-- End Facebook Pixel Code -->
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://i2.wp.com/usacotutor.com/wp-content/uploads/2020/11/logo-2.png?fit=32%2C19&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i2.wp.com/usacotutor.com/wp-content/uploads/2020/11/logo-2.png?fit=192%2C113&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i2.wp.com/usacotutor.com/wp-content/uploads/2020/11/logo-2.png?fit=180%2C106&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i2.wp.com/usacotutor.com/wp-content/uploads/2020/11/logo-2.png?fit=270%2C159&#038;ssl=1" />
+</head>
+
+<body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="page-template-default page page-id-228 wp-custom-logo ehf-footer ehf-template-astra ehf-stylesheet-astra ast-desktop ast-page-builder-template ast-no-sidebar astra-2.6.0 ast-header-custom-item-inside ast-full-width-primary-header ast-single-post ast-inherit-site-logo-transparent ast-theme-transparent-header elementor-default elementor-kit-218 elementor-page elementor-page-228 astra-addon-2.7.0">
+
+<div 
+	class="hfeed site" id="page">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	
+			<div data-elementor-type="header" data-elementor-id="291" class="elementor elementor-291 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-58e78892 elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-invisible" data-id="58e78892" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;animation&quot;:&quot;none&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-26fe46b4" data-id="26fe46b4" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-08f9ee3 elementor-widget elementor-widget-image" data-id="08f9ee3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://usacotutor.com">
+							<img width="355" height="50" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20355%2050'%3E%3C/svg%3E" data-src="https://i0.wp.com/usacotutor.com/wp-content/uploads/2020/11/Copy-of-Copy-of-Copy-of-Untitled-6.png?fit=355%2C50&amp;ssl=1" class="attachment-medium_large size-medium_large lazy" alt="usaco class logo" loading="lazy" data-srcset="https://i0.wp.com/usacotutor.com/wp-content/uploads/2020/11/Copy-of-Copy-of-Copy-of-Untitled-6.png?w=355&amp;ssl=1 355w, https://i0.wp.com/usacotutor.com/wp-content/uploads/2020/11/Copy-of-Copy-of-Copy-of-Untitled-6.png?resize=300%2C42&amp;ssl=1 300w" data-sizes="(max-width: 355px) 100vw, 355px" data-attachment-id="431" data-permalink="https://usacotutor.com/?attachment_id=431" data-orig-file="https://i0.wp.com/usacotutor.com/wp-content/uploads/2020/11/Copy-of-Copy-of-Copy-of-Untitled-6.png?fit=355%2C50&amp;ssl=1" data-orig-size="355,50" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="logo" data-image-description="" data-medium-file="https://i0.wp.com/usacotutor.com/wp-content/uploads/2020/11/Copy-of-Copy-of-Copy-of-Untitled-6.png?fit=300%2C42&amp;ssl=1" data-large-file="https://i0.wp.com/usacotutor.com/wp-content/uploads/2020/11/Copy-of-Copy-of-Copy-of-Untitled-6.png?fit=355%2C50&amp;ssl=1" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-45fa190f" data-id="45fa190f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-3940701b elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3940701b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-13eb2af5" data-id="13eb2af5" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-2de0a0d5 elementor-position-right elementor-vertical-align-middle elementor-view-default elementor-widget elementor-widget-icon-box" data-id="2de0a0d5" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a class="elementor-icon elementor-animation-" href="https://usacotutor.com/lms">
+				<i aria-hidden="true" class="fas fa-user-graduate"></i>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<a href="https://usacotutor.com/lms">UT Portal</a>
+				</h3>
+								<p class="elementor-icon-box-description">Sign In</p>
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4e95759d" data-id="4e95759d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7ecc8e92 elementor-position-right elementor-vertical-align-middle elementor-view-default elementor-widget elementor-widget-icon-box" data-id="7ecc8e92" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a class="elementor-icon elementor-animation-" href="https://usacotutor.com/tuition">
+				<i aria-hidden="true" class="fas fa-leaf"></i>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<a href="https://usacotutor.com/tuition">Elite &amp; affordable</a>
+				</h3>
+								<p class="elementor-icon-box-description">View Class Tuitions</p>
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5253e67a" data-id="5253e67a" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-27240991 elementor-position-right elementor-vertical-align-middle elementor-view-default elementor-widget elementor-widget-icon-box" data-id="27240991" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a class="elementor-icon elementor-animation-" href="https://usacotutor.com/classes">
+				<i aria-hidden="true" class="far fa-calendar-alt"></i>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<a href="https://usacotutor.com/classes">Free Trial class</a>
+				</h3>
+								<p class="elementor-icon-box-description">Booking Below</p>
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<nav class="elementor-section elementor-top-section elementor-element elementor-element-562ce38c elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="562ce38c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1f077fc6" data-id="1f077fc6" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6d665d4a elementor-nav-menu--stretch elementor-nav-menu--indicator-classic elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="6d665d4a" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-background e--animation-sweep-right"><ul id="menu-1-6d665d4a" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-30"><a href="https://usacotutor.com/" class="menu-link elementor-item">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-28"><a href="https://usacotutor.com/classes" class="menu-link elementor-item">Classes</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-228 current_page_item menu-item-25"><a href="https://usacotutor.com/tuition" aria-current="page" class="menu-link elementor-sub-item elementor-item-active">Tuition</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="https://usacotutor.com/about" class="menu-link elementor-item">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-413"><a href="https://usacotutor.com/blog" class="menu-link elementor-item">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="https://usacotutor.com/contact" class="menu-link elementor-item">Contact</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-6d665d4a" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-30"><a href="https://usacotutor.com/" class="menu-link elementor-item">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-28"><a href="https://usacotutor.com/classes" class="menu-link elementor-item">Classes</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-228 current_page_item menu-item-25"><a href="https://usacotutor.com/tuition" aria-current="page" class="menu-link elementor-sub-item elementor-item-active">Tuition</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="https://usacotutor.com/about" class="menu-link elementor-item">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-413"><a href="https://usacotutor.com/blog" class="menu-link elementor-item">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="https://usacotutor.com/contact" class="menu-link elementor-item">Contact</a></li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4f57f097" data-id="4f57f097" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6e5aaa4d elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="6e5aaa4d" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-animation-grow elementor-repeater-item-320e991" href="https://facebook.com/usacotutor" target="_blank">
+						<span class="elementor-screen-only">Facebook-f</span>
+						<i class="fab fa-facebook-f"></i>					</a>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</nav>
+				</div>
+		</div>
+		
+	
+	
+	<div id="content" class="site-content">
+
+		<div class="ast-container">
+
+		
+
+	<div id="primary" class="content-area primary">
+
+		
+					<main id="main" class="site-main">
+
+				
+					
+					
+
+<article 
+	class="post-228 page type-page status-publish ast-article-single" id="post-228" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+
+	
+	<header class="entry-header ast-header-without-markup">
+
+		
+			</header><!-- .entry-header -->
+
+	<div class="entry-content clear" 
+		itemprop="text"	>
+
+		
+				<div data-elementor-type="wp-page" data-elementor-id="228" class="elementor elementor-228" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-f8f0f03 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f8f0f03" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dfc7800" data-id="dfc7800" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1740a26 elementor-widget elementor-widget-heading" data-id="1740a26" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Tuition</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2371f9d elementor-widget elementor-widget-text-editor" data-id="2371f9d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Tuition supports the USACO Tutor program and allows us to hire the BEST Instructors, with years of experience. </p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-0d85b2f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0d85b2f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-21e3ec1" data-id="21e3ec1" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-282da40 elementor-widget elementor-widget-heading" data-id="282da40" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Tuition</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e67a27d elementor-widget elementor-widget-text-editor" data-id="e67a27d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Need Financial Assistance? Email Us 💌</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5bf2d34 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5bf2d34" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-441594d" data-id="441594d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-e29de9f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e29de9f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-6af15f9" data-id="6af15f9" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-afae9a4 elementor-widget elementor-widget-heading" data-id="afae9a4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">$179</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-44cdf90 elementor-widget elementor-widget-text-editor" data-id="44cdf90" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Flexible Class</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a6c7a49 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="a6c7a49" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-7b0b193 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7b0b193" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-22dc63f" data-id="22dc63f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-02ced4b elementor-widget elementor-widget-heading" data-id="02ced4b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Meetings:</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-eea01f9 elementor-widget elementor-widget-heading" data-id="eea01f9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Duration:</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e1939e7 elementor-widget elementor-widget-heading" data-id="e1939e7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Date: </h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-50b90d7 elementor-widget elementor-widget-heading" data-id="50b90d7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">LMS:</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5ebb1bc elementor-widget elementor-widget-heading" data-id="5ebb1bc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">support:</h6>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9d0fff2" data-id="9d0fff2" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-ad9244d elementor-widget elementor-widget-heading" data-id="ad9244d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Office Hrs</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e9ea23b elementor-widget elementor-widget-heading" data-id="e9ea23b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Office Hrs</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-21f3dac elementor-widget elementor-widget-heading" data-id="21f3dac" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">N/a</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b433e6f elementor-widget elementor-widget-heading" data-id="b433e6f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">'Till Pass</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-fc7a04a elementor-widget elementor-widget-heading" data-id="fc7a04a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">OH/EMAIL</h6>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-588f519 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="588f519" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-4194bd5" data-id="4194bd5" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-18e3447 elementor-widget elementor-widget-shortcode" data-id="18e3447" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode">    <button id="wpsc5fa5fe5ad0ccc">Register Now</button>
+    <div id="error-wpsc5fa5fe5ad0ccc"></div>
+    <script>
+    (function() {
+        var stripe_5fa5fe5ad0ccc = Stripe('pk_live_51Hc2AtFiVstvYtneDs9qFhnuTgOkwj3q3cNwlXBSE4kUW6iUKKmVapUTRb7JaIvptLYRw3uOQ23AkfciZi0ldWey00blYbfMEN');
+        var checkoutButton_5fa5fe5ad0ccc = document.querySelector('#wpsc5fa5fe5ad0ccc');
+        checkoutButton_5fa5fe5ad0ccc.addEventListener('click', function () {
+            stripe_5fa5fe5ad0ccc.redirectToCheckout({
+              lineItems: [{
+                price: 'price_1HjLgjFiVstvYtnetCpxTwTK',
+                quantity: 1
+              }],
+              mode: 'payment',  
+              successUrl: 'https://usacotutor.com',
+              cancelUrl: 'https://usacotutor.com',
+              clientReferenceId: 'wpsc5fa5fe5ad0ccc',
+              billingAddressCollection: 'required'
+            })
+            .then(function (result) {
+                if (result.error) {
+                  var displayError = document.getElementById('error-wpsc5fa5fe5ad0ccc');
+                  displayError.textContent = result.error.message;
+                }
+            })
+            .catch(function(error) {
+                console.error('Error:', error);
+                var displayError = document.getElementById('error-wpsc5fa5fe5ad0ccc');
+                displayError.textContent = error;      
+            });
+        });
+    })();
+    </script>        </div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-606385c" data-id="606385c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-0dc13f5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0dc13f5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-84c12bd" data-id="84c12bd" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7ea3c9e elementor-widget elementor-widget-heading" data-id="7ea3c9e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">$379</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ad7a1ca elementor-widget elementor-widget-text-editor" data-id="ad7a1ca" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>10 Week Class</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6494d01 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="6494d01" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-f387f91 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f387f91" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f9caab8" data-id="f9caab8" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c904278 elementor-widget elementor-widget-heading" data-id="c904278" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Meetings:</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-98c76d5 elementor-widget elementor-widget-heading" data-id="98c76d5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Duration:</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2968c2f elementor-widget elementor-widget-heading" data-id="2968c2f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Date: </h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9a0d6a8 elementor-widget elementor-widget-heading" data-id="9a0d6a8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">LMS:</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4c4429f elementor-widget elementor-widget-heading" data-id="4c4429f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">support:</h6>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f17b012" data-id="f17b012" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-9475cc5 elementor-widget elementor-widget-heading" data-id="9475cc5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">1/Week</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-05add2c elementor-widget elementor-widget-heading" data-id="05add2c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">2 hours</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-cd6264b elementor-widget elementor-widget-heading" data-id="cd6264b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Sat  TBD</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-318b628 elementor-widget elementor-widget-heading" data-id="318b628" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">'till Pass</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ea13ca4 elementor-widget elementor-widget-heading" data-id="ea13ca4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Priority</h6>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-b9cc713 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b9cc713" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-26e2e6e" data-id="26e2e6e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-60c4615 stripebtn2 elementor-widget elementor-widget-shortcode" data-id="60c4615" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode">    <button id="wpsc5fa5fe5ada5f5">Register Now</button>
+    <div id="error-wpsc5fa5fe5ada5f5"></div>
+    <script>
+    (function() {
+        var stripe_5fa5fe5ada5f5 = Stripe('pk_live_51Hc2AtFiVstvYtneDs9qFhnuTgOkwj3q3cNwlXBSE4kUW6iUKKmVapUTRb7JaIvptLYRw3uOQ23AkfciZi0ldWey00blYbfMEN');
+        var checkoutButton_5fa5fe5ada5f5 = document.querySelector('#wpsc5fa5fe5ada5f5');
+        checkoutButton_5fa5fe5ada5f5.addEventListener('click', function () {
+            stripe_5fa5fe5ada5f5.redirectToCheckout({
+              lineItems: [{
+                price: 'price_1HjLfGFiVstvYtneHtfKss4W',
+                quantity: 1
+              }],
+              mode: 'payment',  
+              successUrl: 'https://usacotutor.com',
+              cancelUrl: 'https://usacotutor.com',
+              clientReferenceId: 'wpsc5fa5fe5ada5f5',
+              billingAddressCollection: 'required'
+            })
+            .then(function (result) {
+                if (result.error) {
+                  var displayError = document.getElementById('error-wpsc5fa5fe5ada5f5');
+                  displayError.textContent = result.error.message;
+                }
+            })
+            .catch(function(error) {
+                console.error('Error:', error);
+                var displayError = document.getElementById('error-wpsc5fa5fe5ada5f5');
+                displayError.textContent = error;      
+            });
+        });
+    })();
+    </script>        </div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-f571a66" data-id="f571a66" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-b3717f4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b3717f4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-7324a46" data-id="7324a46" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-9bf748b elementor-widget elementor-widget-heading" data-id="9bf748b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">$479</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8fe3f8c elementor-widget elementor-widget-text-editor" data-id="8fe3f8c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Private Class, Monthly</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5aa7829 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="5aa7829" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-153074e elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="153074e" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-3378c1c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3378c1c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-107eaaf" data-id="107eaaf" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-e6504d8 elementor-widget elementor-widget-heading" data-id="e6504d8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Meetings:</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-da65aa5 elementor-widget elementor-widget-heading" data-id="da65aa5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Duration:</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-33ea321 elementor-widget elementor-widget-heading" data-id="33ea321" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Date:</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ee5fe53 elementor-widget elementor-widget-heading" data-id="ee5fe53" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">LMS:</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-fde1742 elementor-widget elementor-widget-heading" data-id="fde1742" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">support:</h6>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-19805fa" data-id="19805fa" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-e5c1980 elementor-widget elementor-widget-heading" data-id="e5c1980" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">1/week</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-919d18d elementor-widget elementor-widget-heading" data-id="919d18d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">2 Hours</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a6d98da elementor-widget elementor-widget-heading" data-id="a6d98da" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Custom</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2498d99 elementor-widget elementor-widget-heading" data-id="2498d99" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">'Till Pass</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3336940 elementor-widget elementor-widget-heading" data-id="3336940" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Priority</h6>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-6a59f9f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6a59f9f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-1610989" data-id="1610989" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-859f4ff elementor-widget elementor-widget-shortcode" data-id="859f4ff" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode">    <button id="wpsc5fa5fe5ae5b6c">Register Now</button>
+    <div id="error-wpsc5fa5fe5ae5b6c"></div>
+    <script>
+    (function() {
+        var stripe_5fa5fe5ae5b6c = Stripe('pk_live_51Hc2AtFiVstvYtneDs9qFhnuTgOkwj3q3cNwlXBSE4kUW6iUKKmVapUTRb7JaIvptLYRw3uOQ23AkfciZi0ldWey00blYbfMEN');
+        var checkoutButton_5fa5fe5ae5b6c = document.querySelector('#wpsc5fa5fe5ae5b6c');
+        checkoutButton_5fa5fe5ae5b6c.addEventListener('click', function () {
+            stripe_5fa5fe5ae5b6c.redirectToCheckout({
+              lineItems: [{
+                price: 'price_1HiORhFiVstvYtne2C0eCQkm',
+                quantity: 1
+              }],
+              mode: 'subscription',  
+              successUrl: 'https://usacotutor.com',
+              cancelUrl: 'https://usacotutor.com',
+              clientReferenceId: 'wpsc5fa5fe5ae5b6c',
+              billingAddressCollection: 'required'
+            })
+            .then(function (result) {
+                if (result.error) {
+                  var displayError = document.getElementById('error-wpsc5fa5fe5ae5b6c');
+                  displayError.textContent = result.error.message;
+                }
+            })
+            .catch(function(error) {
+                console.error('Error:', error);
+                var displayError = document.getElementById('error-wpsc5fa5fe5ae5b6c');
+                displayError.textContent = error;      
+            });
+        });
+    })();
+    </script>        </div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1ff14f3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1ff14f3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b7678ee" data-id="b7678ee" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8a30d24 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8a30d24" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5c34f54" data-id="5c34f54" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-df45221 elementor-widget elementor-widget-heading" data-id="df45221" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Free Diagnostic Exam</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a3cf921 elementor-widget elementor-widget-text-editor" data-id="a3cf921" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Hello! You&#8217;ve clearly shown interest in our offers, so I&#8217;d like to thank you for your time. As a small hand, we&#8217;ve created a FREE Diagnostic Exam for parents who would like some guidance on the best class and their child&#8217;s skill.</p><p>Fill out the form below, and we&#8217;ll get back to you within 48 hours.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d52c818 elementor-widget elementor-widget-wp-widget-wpforms-widget" data-id="d52c818" data-element_type="widget" data-widget_type="wp-widget-wpforms-widget.default">
+				<div class="elementor-widget-container">
+			<div class="wpforms-container " id="wpforms-20"><form id="wpforms-form-20" class="wpforms-validate wpforms-form" data-formid="20" method="post" enctype="multipart/form-data" action="/tuition" data-token="fb0366c6fd32f0a1146fa065a31111ce"><noscript class="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</noscript><div class="wpforms-field-container"><div id="wpforms-20-field_0-container" class="wpforms-field wpforms-field-name" data-field-id="0"><label class="wpforms-field-label" for="wpforms-20-field_0">Name <span class="wpforms-required-label">*</span></label><div class="wpforms-field-row wpforms-field-large"><div class="wpforms-field-row-block wpforms-first wpforms-one-half"><input type="text" id="wpforms-20-field_0" class="wpforms-field-name-first wpforms-field-required" name="wpforms[fields][0][first]" required><label for="wpforms-20-field_0" class="wpforms-field-sublabel after ">First</label></div><div class="wpforms-field-row-block wpforms-one-half"><input type="text" id="wpforms-20-field_0-last" class="wpforms-field-name-last wpforms-field-required" name="wpforms[fields][0][last]" required><label for="wpforms-20-field_0-last" class="wpforms-field-sublabel after ">Last</label></div></div></div><div id="wpforms-20-field_1-container" class="wpforms-field wpforms-field-email" data-field-id="1"><label class="wpforms-field-label" for="wpforms-20-field_1">Email <span class="wpforms-required-label">*</span></label><input type="email" id="wpforms-20-field_1" class="wpforms-field-large wpforms-field-required" name="wpforms[fields][1]" required></div><div id="wpforms-20-field_2-container" class="wpforms-field wpforms-field-textarea" data-field-id="2"><label class="wpforms-field-label" for="wpforms-20-field_2">Message <span class="wpforms-required-label">*</span></label><textarea id="wpforms-20-field_2" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][2]" required></textarea></div></div><div class="wpforms-field wpforms-field-hp"><label for="wpforms-20-field-hp" class="wpforms-field-label">Name</label><input type="text" name="wpforms[hp]" id="wpforms-20-field-hp" class="wpforms-field-medium"></div><div class="wpforms-submit-container" ><input type="hidden" name="wpforms[id]" value="20"><input type="hidden" name="wpforms[author]" value="1"><input type="hidden" name="wpforms[post_id]" value="228"><button type="submit" name="wpforms[submit]" class="wpforms-submit " id="wpforms-submit-20" value="wpforms-submit" aria-live="assertive" data-alt-text="Sending..." data-submit-text="SEND">SEND</button></div></form></div>  <!-- .wpforms-container -->		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-deafadf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="deafadf" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2d8407e" data-id="2d8407e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a7afaaa elementor-widget elementor-widget-heading" data-id="a7afaaa" data-element_type="widget" id="policy" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Refund Policy</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b4fe412 elementor-widget elementor-widget-text-editor" data-id="b4fe412" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Returns<br />Our policy lasts 30 days, or 48 hours after the first class, whichever comes first. If this has gone by since your purchase, unfortunately we can’t offer you a refund. </p><p>After 48 hours after the first class, we can offer a 75% course credit to be applied to any other course.</p><p>Refunds (if applicable)<br />Once you have notified us of the refund, we will also notify you of the approval or rejection of your refund.<br />If you are approved, then your refund will be processed, and a credit will automatically be applied to your credit card or original method of payment, within a certain amount of days. Note that all refunds are subject to a 3% fee, levied by the Credit Card Provider. We cannot do anything about this. Course credit does not have fees.</p><p>Late or missing refunds (if applicable)<br />If you haven’t received a refund yet, first check your bank account again.<br />Then contact your credit card company, it may take some time before your refund is officially posted.<br />Next contact your bank. There is often some processing time before a refund is posted.<br />If you’ve done all of this and you still have not received your refund yet, please contact us at refund@usacotutor.com.</p><p>Sale items (if applicable)<br />If you have applied a coupon to your purchase, you will be refunded the amount you originally paid for it.</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ea2c247 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ea2c247" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b1f7d4d" data-id="b1f7d4d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c1ad26c elementor-widget elementor-widget-heading" data-id="c1ad26c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Privacy Policy</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d214f78 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d214f78" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e522535" data-id="e522535" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-8cc9027 elementor-widget elementor-widget-text-editor" data-id="8cc9027" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>USACO Tutor Privacy Policy Version 15 May 2020</p><p>—–</p><p>This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from usacotutor.com (the “Site”).</p><p>PERSONAL INFORMATION WE COLLECT<br />When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.</p><p>We collect Device Information using the following technologies:<br />– “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.<br />– “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.<br />– “Web beacons”, “tags”, and “pixels” are electronic files used to record information about how you browse the Site.</p><p>Additionally, when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers, PayPal emails, Stripe accounts, bank accounts), email address, and phone number. We refer to this information as “Order Information”.</p><p>We also collect information about your shopping carts on our websites. Information includes cart items, quantities and variables. This applies to unpurchased and purchased carts.</p><p>When you register an account with us, your email will be automatically added to our mailing list. We will send you important notices or activities for your account, additionally, we might also send you advertising materials about our products or services. You can opt-out of any of the marketing services using the links below.</p><p>When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.</p><p>HOW DO WE USE YOUR PERSONAL INFORMATION?<br />We use the Order Information that we collect generally to fulfil any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:<br />– Communicate with you;<br />– Screen our orders for potential risk or fraud; and<br />– When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.<br />– Provide the requested services to you.</p><p>We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).</p><p>We also use “Cookies” stored by social media to provide services through social media such as Facebook live chat. These information will not be sent to us if you did not interact with the services.</p><p>SHARING YOUR PERSONAL INFORMATION<br />We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Stripe to power our online store–you can read more about how Stripe  uses your Personal Information here: https://www.stripe.com/privacy. We also use Google Analytics to help us understand how our customers use the Site — you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.</p><p>Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful requests for information we receive, or to otherwise protect our rights.</p><p>BEHAVIOURAL ADVERTISING<br />As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.</p><p>You can opt out of targeted advertising by using the links below:<br />– Facebook: https://www.facebook.com/settings/?tab=ads<br />– Google: https://www.google.com/settings/ads/anonymous<br />– Bing: https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads<br />– Bank of FabTan SG: https://hailiga.org/aies-console</p><p>Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http://optout.aboutads.info/.</p><p>DO NOT TRACK<br />Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.</p><p>YOUR RIGHTS<br />If you are a European resident, you have the right to access the personal information we hold about you and to ask that your personal information is corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.</p><p>Additionally, if you are a European resident we note that we are processing your information in order to fulfil contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe to where our server is located, including to Canada and the United States.</p><p>DATA RETENTION<br />When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.</p><p>CHANGES<br />We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.</p><p>MINORS<br />The Site is intended for individuals of all ages. </p><p>CONTACT US<br />For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at privacy@usacotutor.com.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d848ab9 elementor-widget elementor-widget-heading" data-id="d848ab9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Terms of Service</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ceda369 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ceda369" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-443afd8" data-id="443afd8" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-519869b elementor-widget elementor-widget-text-editor" data-id="519869b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>USACO Tutor Terms of Service Version 15 May 2020</p><p>&#8212;</p><p>This website is operated by USACO Tutor. Throughout the site, the terms “we”, “us” and “our” refer to USACO Tutor. USACO Tutor offers this website, including all information, tools and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.</p><p>By visiting our site and/ or purchasing something from us, you engage in our “Service” and agree to be bound by the following terms and conditions (“Terms of Service”, “Terms”), including those additional terms and conditions and policies referenced herein and/or available by hyperlink. These Terms of Service apply to all users of the site, including without limitation users who are browsers, vendors, customers, merchants, and/ or contributors of content.</p><p>Please read these Terms of Service carefully before accessing or using our website. By accessing or using any part of the site, you agree to be bound by these Terms of Service. If you do not agree to all the terms and conditions of this agreement, then you may not access the website or use any services. If these Terms of Service are considered an offer, acceptance is expressly limited to these Terms of Service.</p><p>Any new features or tools which are added to the current store shall also be subject to the Terms of Service. You can review the most current version of the Terms of Service at any time on this page. We reserve the right to update, change or replace any part of these Terms of Service by posting updates and/or changes to our website. It is your responsibility to check this page periodically for changes. Your continued use of or access to the website following the posting of any changes constitutes acceptance of those changes.</p><p>Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.</p><p>SECTION 1 – ONLINE STORE TERMS</p><p>By agreeing to these Terms of Service, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.<br />You may not use our products for any illegal or unauthorized purpose nor may you, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright laws).<br />You must not transmit any worms or viruses or any code of a destructive nature.<br />A breach or violation of any of the Terms will result in an immediate termination of your Services.</p><p>SECTION 2 – GENERAL CONDITIONS</p><p>We reserve the right to refuse service to anyone for any reason at any time.<br />You understand that your content (not including credit card information), may be transferred unencrypted and involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices. Credit card information is always encrypted during transfer over networks.<br />You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service or any contact on the website through which the service is provided, without express written permission by us.<br />The headings used in this agreement are included for convenience only and will not limit or otherwise affect these Terms.</p><p>SECTION 3 – ACCURACY, COMPLETENESS AND TIMELINESS OF INFORMATION</p><p>We are not responsible if information made available on this site is not accurate, complete or current. The material on this site is provided for general information only and should not be relied upon or used as the sole basis for making decisions without consulting primary, more accurate, more complete or more timely sources of information. Any reliance on the material on this site is at your own risk.<br />This site may contain certain historical information. Historical information, necessarily, is not current and is provided for your reference only. We reserve the right to modify the contents of this site at any time, but we have no obligation to update any information on our site. You agree that it is your responsibility to monitor changes to our site.</p><p>SECTION 4 – MODIFICATIONS TO THE SERVICE AND PRICES</p><p>Prices for our products are subject to change without notice.<br />We reserve the right at any time to modify or discontinue the Service (or any part or content thereof) without notice at any time.<br />We shall not be liable to you or to any third-party for any modification, price change, suspension or discontinuance of the Service.</p><p>SECTION 5 – PRODUCTS OR SERVICES (if applicable)</p><p>Certain products or services may be available exclusively online through the website. These products or services may have limited quantities and are subject to return or exchange only according to our Return Policy.<br />We have made every effort to display as accurately as possible the colors and images of our products that appear at the store. We cannot guarantee that your computer monitor’s display of any color will be accurate.<br />We reserve the right, but are not obligated, to limit the sales of our products or Services to any person, geographic region or jurisdiction. We may exercise this right on a case-by-case basis. We reserve the right to limit the quantities of any products or services that we offer. All descriptions of products or product pricing are subject to change at anytime without notice, at the sole discretion of us. We reserve the right to discontinue any product at any time. Any offer for any product or service made on this site is void where prohibited.<br />We do not warrant that the quality of any products, services, information, or other material purchased or obtained by you will meet your expectations, or that any errors in the Service will be corrected.</p><p>SECTION 6 – ACCURACY OF BILLING AND ACCOUNT INFORMATION</p><p>We reserve the right to refuse any order you place with us. We may, in our sole discretion, limit or cancel quantities purchased per person, per household or per order. These restrictions may include orders placed by or under the same customer account, the same credit card, and/or orders that use the same billing and/or shipping address. In the event that we make a change to or cancel an order, we may attempt to notify you by contacting the e-mail and/or billing address/phone number provided at the time the order was made. We reserve the right to limit or prohibit orders that, in our sole judgment, appear to be placed by dealers, resellers or distributors.</p><p>You agree to provide current, complete and accurate purchase and account information for all purchases made at our store. You agree to promptly update your account and other information, including your email address and credit card numbers and expiration dates, so that we can complete your transactions and contact you as needed.</p><p>For more detail, please review our Returns Policy.</p><p>SECTION 7 – OPTIONAL TOOLS</p><p>We may provide you with access to third-party tools over which we neither monitor nor have any control nor input.<br />You acknowledge and agree that we provide access to such tools ”as is” and “as available” without any warranties, representations or conditions of any kind and without any endorsement. We shall have no liability whatsoever arising from or relating to your use of optional third-party tools.<br />Any use by you of optional tools offered through the site is entirely at your own risk and discretion and you should ensure that you are familiar with and approve of the terms on which tools are provided by the relevant third-party provider(s).<br />We may also, in the future, offer new services and/or features through the website (including, the release of new tools and resources). Such new features and/or services shall also be subject to these Terms of Service.</p><p>SECTION 8 – THIRD-PARTY LINKS</p><p>Certain content, products and services available via our Service may include materials from third-parties.<br />Third-party links on this site may direct you to third-party websites that are not affiliated with us. We are not responsible for examining or evaluating the content or accuracy and we do not warrant and will not have any liability or responsibility for any third-party materials or websites, or for any other materials, products, or services of third-parties.<br />We are not liable for any harm or damages related to the purchase or use of goods, services, resources, content, or any other transactions made in connection with any third-party websites. Please review carefully the third-party’s policies and practices and make sure you understand them before you engage in any transaction. Complaints, claims, concerns, or questions regarding third-party products should be directed to the third-party.</p><p>SECTION 9 – USER COMMENTS, FEEDBACK AND OTHER SUBMISSIONS</p><p>If, at our request, you send certain specific submissions (for example contest entries) or without a request from us you send creative ideas, suggestions, proposals, plans, or other materials, whether online, by email, by postal mail, or otherwise (collectively, ‘comments’), you agree that we may, at any time, without restriction, edit, copy, publish, distribute, translate and otherwise use in any medium any comments that you forward to us. We are and shall be under no obligation (1) to maintain any comments in confidence; (2) to pay compensation for any comments; or (3) to respond to any comments.<br />We may, but have no obligation to, monitor, edit or remove content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates any party’s intellectual property or these Terms of Service.<br />You agree that your comments will not violate any right of any third-party, including copyright, trademark, privacy, personality or other personal or proprietary right. You further agree that your comments will not contain libelous or otherwise unlawful, abusive or obscene material, or contain any computer virus or other malware that could in any way affect the operation of the Service or any related website. You may not use a false e-mail address, pretend to be someone other than yourself, or otherwise mislead us or third-parties as to the origin of any comments. You are solely responsible for any comments you make and their accuracy. We take no responsibility and assume no liability for any comments posted by you or any third-party.</p><p>SECTION 10 – PERSONAL INFORMATION</p><p>Your submission of personal information through the store is governed by our Privacy Policy. To view our Privacy Policy.</p><p>SECTION 11 – ERRORS, INACCURACIES AND OMISSIONS</p><p>Occasionally there may be information on our site or in the Service that contains typographical errors, inaccuracies or omissions that may relate to product descriptions, pricing, promotions, offers, product shipping charges, transit times and availability. We reserve the right to correct any errors, inaccuracies or omissions, and to change or update information or cancel orders if any information in the Service or on any related website is inaccurate at any time without prior notice (including after you have submitted your order).<br />We undertake no obligation to update, amend or clarify information in the Service or on any related website, including without limitation, pricing information, except as required by law. No specified update or refresh date applied in the Service or on any related website, should be taken to indicate that all information in the Service or on any related website has been modified or updated.</p><p>SECTION 12 – PROHIBITED USES</p><p>In addition to other prohibitions as set forth in the Terms of Service, you are prohibited from using the site or its content: (a) for any unlawful purpose; (b) to solicit others to perform or participate in any unlawful acts; (c) to violate any international, federal, provincial or state regulations, rules, laws, or local ordinances; (d) to infringe upon or violate our intellectual property rights or the intellectual property rights of others; (e) to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability; (f) to submit false or misleading information; (g) to upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Service or of any related website, other websites, or the Internet; (h) to collect or track the personal information of others; (i) to spam, phish, pharm, pretext, spider, crawl, or scrape; (j) for any obscene or immoral purpose; or (k) to interfere with or circumvent the security features of the Service or any related website, other websites, or the Internet. We reserve the right to terminate your use of the Service or any related website for violating any of the prohibited uses.</p><p>SECTION 13 – DISCLAIMER OF WARRANTIES; LIMITATION OF LIABILITY</p><p>We do not guarantee, represent or warrant that your use of our service will be uninterrupted, timely, secure or error-free.<br />We do not warrant that the results that may be obtained from the use of the service will be accurate or reliable.<br />You agree that from time to time we may remove the service for indefinite periods of time or cancel the service at any time, without notice to you.<br />You expressly agree that your use of, or inability to use, the service is at your sole risk. The service and all products and services delivered to you through the service are (except as expressly stated by us) provided ‘as is’ and ‘as available’ for your use, without any representation, warranties or conditions of any kind, either express or implied, including all implied warranties or conditions of merchantability, merchantable quality, fitness for a particular purpose, durability, title, and non-infringement.<br />In no case shall International Group of Anthony, our directors, officers, employees, affiliates, agents, contractors, interns, suppliers, service providers or licensors be liable for any injury, loss, claim, or any direct, indirect, incidental, punitive, special, or consequential damages of any kind, including, without limitation lost profits, lost revenue, lost savings, loss of data, replacement costs, or any similar damages, whether based in contract, tort (including negligence), strict liability or otherwise, arising from your use of any of the service or any products procured using the service, or for any other claim related in any way to your use of the service or any product, including, but not limited to, any errors or omissions in any content, or any loss or damage of any kind incurred as a result of the use of the service or any content (or product) posted, transmitted, or otherwise made available via the service, even if advised of their possibility. Because some states or jurisdictions do not allow the exclusion or the limitation of liability for consequential or incidental damages, in such states or jurisdictions, our liability shall be limited to the maximum extent permitted by law.</p><p>SECTION 14 – INDEMNIFICATION</p><p>You agree to indemnify, defend and hold harmless International Group of Anthony and our parent, subsidiaries, affiliates, partners, officers, directors, agents, contractors, licensors, service providers, subcontractors, suppliers, interns and employees, harmless from any claim or demand, including reasonable attorneys’ fees, made by any third-party due to or arising out of your breach of these Terms of Service or the documents they incorporate by reference, or your violation of any law or the rights of a third-party.</p><p>SECTION 15 – SEVERABILITY</p><p>In the event that any provision of these Terms of Service is determined to be unlawful, void or unenforceable, such provision shall nonetheless be enforceable to the fullest extent permitted by applicable law, and the unenforceable portion shall be deemed to be severed from these Terms of Service, such determination shall not affect the validity and enforceability of any other remaining provisions.</p><p>SECTION 16 – TERMINATION</p><p>The obligations and liabilities of the parties incurred prior to the termination date shall survive the termination of this agreement for all purposes.<br />These Terms of Service are effective unless and until terminated by either you or us. You may terminate these Terms of Service at any time by notifying us that you no longer wish to use our Services, or when you cease using our site.<br />If in our sole judgment you fail, or we suspect that you have failed, to comply with any term or provision of these Terms of Service, we also may terminate this agreement at any time without notice and you will remain liable for all amounts due up to and including the date of termination; and/or accordingly may deny you access to our Services (or any part thereof).</p><p>SECTION 17 – ENTIRE AGREEMENT</p><p>The failure of us to exercise or enforce any right or provision of these Terms of Service shall not constitute a waiver of such right or provision.<br />These Terms of Service and any policies or operating rules posted by us on this site or in respect to The Service constitutes the entire agreement and understanding between you and us and govern your use of the Service, superseding any prior or contemporaneous agreements, communications and proposals, whether oral or written, between you and us (including, but not limited to, any prior versions of the Terms of Service).<br />Any ambiguities in the interpretation of these Terms of Service shall not be construed against the drafting party.</p><p>SECTION 18 – GOVERNING LAW</p><p>These Terms of Service and any separate agreements whereby we provide you Services shall be governed by and construed in accordance with the laws of USA.</p><p>SECTION 19 – CHANGES TO TERMS OF SERVICE</p><p>You can review the most current version of the Terms of Service at any time at this page.<br />We reserve the right, at our sole discretion, to update, change or replace any part of these Terms of Service by posting updates and changes to our website. It is your responsibility to check our website periodically for changes. Your continued use of or access to our website or the Service following the posting of any changes to these Terms of Service constitutes acceptance of those changes.</p><p>SECTION 20 – CONTACT INFORMATION</p><p>Questions about the Terms of Service should be sent to us at terms@usacotutor.com</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		
+		
+		
+	</div><!-- .entry-content .clear -->
+
+	
+	
+</article><!-- #post-## -->
+
+
+					
+					
+				
+			</main><!-- #main -->
+			
+		
+	</div><!-- #primary -->
+
+
+			
+			</div> <!-- ast-container -->
+
+		</div><!-- #content -->
+
+		
+		
+				<div data-elementor-type="footer" data-elementor-id="368" class="elementor elementor-368 elementor-location-footer" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-5cb4b1ad elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5cb4b1ad" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-60a2c4a0" data-id="60a2c4a0" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-40c4cfe elementor-widget elementor-widget-uael-retina-image" data-id="40c4cfe" data-element_type="widget" data-widget_type="uael-retina-image.default">
+				<div class="elementor-widget-container">
+					<div class="uael-retina-image">
+													<div class="uael-retina-image-set">
+					<div class="uael-retina-image-container">
+						<img class="uael-retina-img elementor-animation- lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://i1.wp.com/usacotutor.com/wp-content/uploads/2020/11/Copy-of-Copy-of-Copy-of-Untitled-4.png?fit=355%2C50&#038;ssl=1?1604714075" alt="http://bad%20quality"srcset="https://i1.wp.com/usacotutor.com/wp-content/uploads/2020/11/Copy-of-Copy-of-Copy-of-Untitled-4.png?fit=355%2C50&#038;ssl=1?1604714075 1x,https://i2.wp.com/usacotutor.com/wp-content/uploads/2020/11/Copy-of-Copy-of-Copy-of-Untitled-3.png?fit=768%2C108&#038;ssl=1?1604714075 2x"/>
+					</div>
+				</div>
+								</div> 
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5482c619 elementor-widget elementor-widget-text-editor" data-id="5482c619" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>USACO Tutor is a team of Talented Instructors revolutionizing USACO education.</p><p>A State-Of-The-Art learning system used by universities, UT Portal provides the elite training your child deserves.</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-1271439c" data-id="1271439c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-70fcc422 elementor-widget elementor-widget-heading" data-id="70fcc422" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Site Map</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-24b9e5de elementor-align-left elementor-mobile-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="24b9e5de" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+					<a href="https://usacotutor.com">					<span class="elementor-icon-list-text">Home</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://usacotutor.com/classes">					<span class="elementor-icon-list-text">Classes</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://usacotutor.com/about">					<span class="elementor-icon-list-text">About</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://usacotutor.com/blog">					<span class="elementor-icon-list-text">Blog</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://usacotutor.com">					<span class="elementor-icon-list-text">Contact</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-30a7416e" data-id="30a7416e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-62235654 elementor-widget elementor-widget-heading" data-id="62235654" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Stay Connected</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1cd6184 elementor-widget elementor-widget-facebook-button" data-id="1cd6184" data-element_type="widget" data-widget_type="facebook-button.default">
+				<div class="elementor-widget-container">
+			<div data-layout="standard" data-colorscheme="light" data-size="small" data-show-faces="false" class="elementor-facebook-widget fb-like" data-href="https://facebook.com/usacotutor" data-share="false" data-action="like"></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-753b46b elementor-widget elementor-widget-button" data-id="753b46b" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://facebook.com/usacotutor" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fab fa-facebook-f"></i>			</span>
+						<span class="elementor-button-text">Facebook</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-fdbf7c7 elementor-widget elementor-widget-text-editor" data-id="fdbf7c7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>We are not officially affiliated with USACO.org</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-7f57ea34" data-id="7f57ea34" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-19208bc6 elementor-widget elementor-widget-heading" data-id="19208bc6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">SECURE SITE</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0c1b6e4 elementor-widget elementor-widget-text-editor" data-id="0c1b6e4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Proudly Powered by <a href="https://hailiga.org" target="_blank" rel="noopener">HAILIGA</a> and <a href="https://imperialanthonian.com" target="_blank" rel="noopener">Imperial Anthonian.</a></p>
+<p>Thank you to Stripe Payments for a 100% Secure Payment Portal to protect Customers.</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<footer class="elementor-section elementor-top-section elementor-element elementor-element-2932f3fe elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="2932f3fe" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-46115d1c" data-id="46115d1c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-73d6c79a elementor-widget elementor-widget-heading" data-id="73d6c79a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Copyright © 2019-2020 USACO Tutor </h3>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fa1a4f5" data-id="fa1a4f5" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-76993ae elementor-widget elementor-widget-uael-modal-popup" data-id="76993ae" data-element_type="widget" data-widget_type="uael-modal-popup.default">
+				<div class="elementor-widget-container">
+			<div id="76993ae-overlay" data-trigger-on="automatic" data-close-on-esc="no" data-close-on-overlay="yes" data-exit-intent="yes" data-after-sec="yes" data-after-sec-val="30" data-cookies="yes" data-cookies-days="1" data-custom="" data-custom-id="" data-content="content" data-autoplay="no" data-device="false" data-async="" class="uael-modal-parent-wrapper uael-module-content uamodal-76993ae uael-aspect-ratio-16_9 -popup">
+	<div id="modal-76993ae" class="uael-modal uael-center-modal uael-modal-custom uael-modal-content uael-effect-13   uael-aspect-ratio-16_9">
+		<div class="uael-content">
+						<div class="uael-modal-title-wrap">
+				<h3 class="uael-modal-title elementor-inline-editing" data-elementor-setting-key="title" data-elementor-inline-editing-toolbar="basic">FREE Class</h3>
+			</div>
+						<div class="uael-modal-text uael-modal-content-data clearfix">
+			<div class="uael-text-editor elementor-inline-editing" data-elementor-setting-key="ct_content" data-elementor-inline-editing-toolbar="advanced"><p>You seem interested in what we have to offer. And we're interested in talking to you. </p>
+<p><a href="https://calendly.com/davidzhaiyang/usaco">https://calendly.com/davidzhaiyang/usaco</a></p>
+</div>			</div>
+		</div>
+	</div>
+
+	
+		<span class="uael-modal-close uael-close-icon elementor-clickable uael-close-custom-top-right" >
+		<i aria-hidden="true" class="fas fa-times"></i>		</span>
+			<div class="uael-overlay"></div>
+</div>
+
+<div class="uael-modal-action-wrap">
+				<div class="uael-modal-action elementor-clickable uael-trigger uael-modal-popup-hide" data-modal="76993ae">
+							</div>
+
+			</div>
+		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6470d183" data-id="6470d183" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-743971c elementor-widget elementor-widget-heading" data-id="743971c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Built with ❤ by USACO Tutor Team</h3>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</footer>
+				</div>
+		</div>
+				<footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
+			<div class='footer-width-fixer'></div>		</footer>
+	
+		
+	</div><!-- #page -->
+
+	
+	            <script type="text/javascript">
+              (function() {
+                var sa = document.createElement('script'); sa.type = 'text/javascript'; sa.async = true;
+                sa.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.ywxi.net/js/1.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sa, s);
+              })();
+            </script><script id='astra-theme-js-js-extra'>
+var astra = {"break_point":"921","isRtl":""};
+</script>
+<script src='https://usacotutor.com/wp-content/themes/astra/assets/js/minified/style.min.js?ver=2.6.0' id='astra-theme-js-js'></script>
+<script src='https://c0.wp.com/p/jetpack/9.0.2/_inc/build/photon/photon.min.js' id='jetpack-photon-js'></script>
+<script id='astra-addon-js-js-extra'>
+var astraAddon = {"sticky_active":""};
+</script>
+<script src='https://usacotutor.com/wp-content/uploads/astra-addon/astra-addon-5f9fc06e3ad208-28918842.js?ver=2.7.0' id='astra-addon-js-js'></script>
+<script src='https://c0.wp.com/c/5.5.3/wp-includes/js/jquery/jquery.js' id='jquery-core-js'></script>
+<script src='https://usacotutor.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1' id='smartmenus-js'></script>
+<script src='https://usacotutor.com/wp-content/plugins/ultimate-elementor/assets/min-js/js_cookie.min.js?ver=1.27.1' id='uael-cookie-lib-js'></script>
+<script src='https://usacotutor.com/wp-content/plugins/ultimate-elementor/assets/min-js/uael-modal-popup.min.js?ver=1.27.1' id='uael-modal-popup-js'></script>
+<script src='https://usacotutor.com/wp-content/plugins/ultimate-elementor/assets/lib/jquery-element-resize/jquery_resize.min.js?ver=1.27.1' id='uael-element-resize-js'></script>
+<script src='https://usacotutor.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.13' id='elementor-frontend-modules-js'></script>
+<script src='https://usacotutor.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.0.5' id='elementor-sticky-js'></script>
+<script id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/usacotutor.com\/wp-admin\/admin-ajax.php","nonce":"4327c7a8cb","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"weixin":{"title":"WeChat"},"weibo":{"title":"Weibo"}},"facebook_sdk":{"lang":"en_US","app_id":"357725441988113"},"lottie":{"defaultAnimationUrl":"https:\/\/usacotutor.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src='https://usacotutor.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.0.5' id='elementor-pro-frontend-js'></script>
+<script src='https://c0.wp.com/c/5.5.3/wp-includes/js/jquery/ui/position.min.js' id='jquery-ui-position-js'></script>
+<script src='https://usacotutor.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script src='https://usacotutor.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script src='https://usacotutor.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script src='https://usacotutor.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.13' id='share-link-js'></script>
+<script id='elementor-frontend-js-extra'>
+var uael_particles_script = {"uael_particles_url":"https:\/\/usacotutor.com\/wp-content\/plugins\/ultimate-elementor\/assets\/min-js\/uael-particles.min.js","particles_url":"https:\/\/usacotutor.com\/wp-content\/plugins\/ultimate-elementor\/assets\/lib\/particles\/particles.min.js"};
+</script>
+<script id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.13","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"https:\/\/usacotutor.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":228,"title":"Tuition%20-%20USACO%20Tutor","excerpt":"","featuredImage":false}};
+</script>
+<script src='https://usacotutor.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.13' id='elementor-frontend-js'></script>
+<script id='elementor-frontend-js-after'>
+window.scope_array = [];
+								window.backend = 0;
+								jQuery.cachedScript = function( url, options ) {
+									// Allow user to set any option except for dataType, cache, and url.
+									options = jQuery.extend( options || {}, {
+										dataType: "script",
+										cache: true,
+										url: url
+									});
+									// Return the jqXHR object so we can chain callbacks.
+									return jQuery.ajax( options );
+								};
+							    jQuery( window ).on( "elementor/frontend/init", function() {
+									elementorFrontend.hooks.addAction( "frontend/element_ready/global", function( $scope, $ ){
+										if ( "undefined" == typeof $scope ) {
+												return;
+										}
+										if ( $scope.hasClass( "uael-particle-yes" ) ) {
+											window.scope_array.push( $scope );
+											$scope.find(".uael-particle-wrapper").addClass("js-is-enabled");
+										}else{
+											return;
+										}
+										if(elementorFrontend.isEditMode() && $scope.find(".uael-particle-wrapper").hasClass("js-is-enabled") && window.backend == 0 ){		
+											var uael_url = uael_particles_script.uael_particles_url;
+											
+											jQuery.cachedScript( uael_url );
+											window.backend = 1;
+										}else if(elementorFrontend.isEditMode()){
+											var uael_url = uael_particles_script.uael_particles_url;
+											jQuery.cachedScript( uael_url ).done(function(){
+												var flag = true;
+											});
+										}
+									});
+								});
+								jQuery(document).ready(function(){
+									if ( jQuery.find( ".uael-particle-yes" ).length < 1 ) {
+										return;
+									}
+									var uael_url = uael_particles_script.uael_particles_url;
+									jQuery.cachedScript = function( url, options ) {
+										// Allow user to set any option except for dataType, cache, and url.
+										options = jQuery.extend( options || {}, {
+											dataType: "script",
+											cache: true,
+											url: url
+										});
+										// Return the jqXHR object so we can chain callbacks.
+										return jQuery.ajax( options );
+									};
+									jQuery.cachedScript( uael_url );
+								});	
+</script>
+<script src='https://c0.wp.com/c/5.5.3/wp-includes/js/underscore.min.js' id='underscore-js'></script>
+<script id='wp-util-js-extra'>
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+</script>
+<script src='https://c0.wp.com/c/5.5.3/wp-includes/js/wp-util.min.js' id='wp-util-js'></script>
+<script id='wpforms-elementor-js-extra'>
+var wpformsElementorVars = {"recaptcha_type":"v2"};
+</script>
+<script src='https://usacotutor.com/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.6.3.1' id='wpforms-elementor-js'></script>
+<script src='https://usacotutor.com/wp-content/plugins/wpforms-lite/assets/js/jquery.validate.min.js?ver=1.19.0' id='wpforms-validation-js'></script>
+<script src='https://usacotutor.com/wp-content/plugins/wpforms-lite/assets/js/mailcheck.min.js?ver=1.1.2' id='wpforms-mailcheck-js'></script>
+<script src='https://usacotutor.com/wp-content/plugins/wpforms-lite/assets/js/wpforms.js?ver=1.6.3.1' id='wpforms-js'></script>
+			<script>
+			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+			</script>
+			<script type='text/javascript'>
+/* <![CDATA[ */
+var wpforms_settings = {"val_required":"This field is required.","val_url":"Please enter a valid URL.","val_email":"Please enter a valid email address.","val_email_suggestion":"Did you mean {suggestion}?","val_email_suggestion_title":"Click to accept this suggestion.","val_email_restricted":"This email address is not allowed.","val_number":"Please enter a valid number.","val_confirm":"Field values do not match.","val_fileextension":"File type is not allowed.","val_filesize":"File exceeds max size allowed. File was not uploaded.","val_time12h":"Please enter time in 12-hour AM\/PM format (eg 8:45 AM).","val_time24h":"Please enter time in 24-hour format (eg 22:45).","val_requiredpayment":"Payment is required.","val_creditcard":"Please enter a valid credit card number.","val_post_max_size":"The total size of the selected files {totalSize} Mb exceeds the allowed limit {maxSize} Mb.","val_checklimit":"You have exceeded the number of allowed selections: {#}.","val_limit_characters":"{count} of {limit} max characters.","val_limit_words":"{count} of {limit} max words.","val_recaptcha_fail_msg":"Google reCAPTCHA verification failed, please try again later.","val_empty_blanks":"Please fill out all blanks.","post_max_size":"8388608","uuid_cookie":"","locale":"en","wpforms_plugin_url":"https:\/\/usacotutor.com\/wp-content\/plugins\/wpforms-lite\/","gdpr":"","ajaxurl":"https:\/\/usacotutor.com\/wp-admin\/admin-ajax.php","mailcheck_enabled":"1","mailcheck_domains":[],"mailcheck_toplevel_domains":["dev"]}
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://stats.wp.com/e-202045.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.0.2',blog:'185010423',post:'228',tz:'0',srv:'usacotutor.com'} ]);
+	_stq.push([ 'clickTrackerInit', '185010423', '228' ]);
+</script>
+
+	<script>window.w3tc_lazyload=1,window.lazyLoadOptions={elements_selector:".lazy",callback_loaded:function(t){var e;try{e=new CustomEvent("w3tc_lazyload_loaded",{detail:{e:t}})}catch(a){(e=document.createEvent("CustomEvent")).initCustomEvent("w3tc_lazyload_loaded",!1,!1,{e:t})}window.dispatchEvent(e)}}</script><script async src="https://usacotutor.com/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js"></script></body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 53/65 objects using disk
+Page Caching using disk: enhanced 
+Content Delivery Network via N/A
+Lazy Loading
+Minified using disk
+Database Caching 12/20 queries in 0.010 seconds using disk
+
+Served from: usacotutor.com @ 2020-11-07 01:54:35 by W3 Total Cache
+-->

@@ -1,0 +1,1 @@
+Â€Ä_<?php exit; ?>a:1:{s:7:"content";s:94:"{"wpp_protect_excerpt":"true","wpp_use_custom_form_action":"true","wpp_no_reload_page":"true"}";}
